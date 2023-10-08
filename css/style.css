@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     color: #fff;
-    font-family: 
+    font-family:'Times New Roman';
 }
 
 a {
@@ -90,6 +90,21 @@ input[type="checkbox"]{
     float: right;
     box-sizing: border-box
 }
+.button{
+    background-color: #fff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    width: 20%;
+    box-sizing: border-box;
+    transition: 0.3s ease;
+
+}
+
 body {
     background-color: #3f9793;
     
