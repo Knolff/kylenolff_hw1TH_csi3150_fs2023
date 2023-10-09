@@ -31,7 +31,7 @@ li{
     color:#fff
     
 }
-/*Styling your image logo*/
+
 .menu{
     display: flex;
     gap: 1em;
@@ -103,12 +103,8 @@ body {
 
 footer{
     clear: both;
-    background-color:#3f9793;
-    
+    background-color:#3f9793; 
 }
-
-
-
 
 /*responsive design using css media queries */
 @media (max-width:768px){
